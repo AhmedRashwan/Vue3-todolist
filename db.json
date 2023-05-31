@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "assignment 1",
+      "complete": false,
+      "tag": "math"
+    },
+    {
+      "id": 2,
+      "name": "assignment 2",
+      "complete": false,
+      "tag": "science"
+    },
+    {
+      "id": 3,
+      "name": "assignment 3",
+      "complete": false,
+      "tag": "english"
+    },
+    {
+      "id": 4,
+      "name": "assignment 4",
+      "complete": false,
+      "tag": "english"
+    }
+  ]
+}

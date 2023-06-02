@@ -1,17 +1,12 @@
-# Vue3-todolist-oldschool
+# Vue3-todolist
 
-use Vue3 and tailwind from the cdn and explore concepts and how it works. 
+go through the vue3 document and build a todolist with 2 ways: scaffolding way and native way
 
-## Basics
--  attribute binding: `v-bind:attrbute`, `:attribute`.
--  data binding with: `v-model`.
--  event handling: `v-on:event`, `@event`.
+## Project setup
+```
+cd native-way
+```
+```
+npm install
+```
 
-## Components
-- props: to handle the properties from the parent component to the child component.
-- data method: handle the component data.
-- methods: to handle the events.
-- hooks 
-- slots
-- named slots: to handle more than slot in the component.
-- slot binding: `v-slot:slotName`, `#slot`.

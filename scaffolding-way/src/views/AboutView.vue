@@ -1,14 +1,13 @@
 <script setup>
-import {useFlash, useErrorFlash} from '@/composables/useFlash';
-
+import { useErrorFlash, useFlash } from '@/composables/useFlash'
 </script>
 
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>This tutorial to build a todo-list</h1>
   </div>
   <button @click="useErrorFlash('OH NOO!!')">Shame Me</button>
-  <button  @click="useFlash('Great!')">Great Me</button>
+  <button @click="useFlash('Great!')">Great Me</button>
 </template>
 
 <style>

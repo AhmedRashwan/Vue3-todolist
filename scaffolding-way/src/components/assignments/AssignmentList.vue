@@ -19,9 +19,9 @@ defineProps({
 <template>
   <div v-show="items.length" class="container mx-auto py-4">
     <div class="container mx-auto py-4">
-      <h1 class="text-2xl font-bold mb-4">
+      <h3 class="text-2xl font-bold mb-4" style="color: #f8d486">
         {{ title }} <span>({{ items.length }})</span>
-      </h1>
+      </h3>
       <p>{{ description }}</p>
       <AssignmentItem v-for="item in items" :key="item.id" :item="item"></AssignmentItem>
     </div>

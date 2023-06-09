@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4] - 2023-06-09
+
+### Add
+- 
+
+- Play with stores before its revolution
+- Add custom UserStore
+
 ## [1.0.3] - 2023-06-03
 
 ### Add

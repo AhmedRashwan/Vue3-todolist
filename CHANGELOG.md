@@ -7,6 +7,7 @@
 
 - Play with stores before its revolution
 - Add custom UserStore
+- Add Pinia as a state manager
 
 ## [1.0.3] - 2023-06-03
 

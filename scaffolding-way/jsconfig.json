@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
+    "baseUrl": "../scaffolding-way",
     "paths": {
-        "@/*": ["src/*"]
+      "@/*": [
+        "src/*"
+      ]
     }
   }
 }

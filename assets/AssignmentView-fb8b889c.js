@@ -1,0 +1,1 @@
+import{_ as e}from"./Assignments-0bb4546f.js";import{o as s,c as t,b as a,a as o}from"./index-0c2520f7.js";const c=o("h2",{style:{color:"hsla(160, 100%, 37%, 1)"}},"Assigment List",-1),l={__name:"AssignmentView",setup(n){return(r,_)=>(s(),t("main",null,[c,a(e)]))}};export{l as default};
